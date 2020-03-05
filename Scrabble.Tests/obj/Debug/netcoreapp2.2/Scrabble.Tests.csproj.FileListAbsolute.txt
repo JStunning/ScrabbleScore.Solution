@@ -1,0 +1,17 @@
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.csprojAssemblyReference.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.AssemblyInfoInputs.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.AssemblyInfo.cs
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.deps.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.runtimeconfig.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.runtimeconfig.dev.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.Tests.pdb
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\bin\Debug\netcoreapp2.2\Scrabble.pdb
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.csproj.CopyComplete
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\ScrabbleScore.Solution\Scrabble.Tests\obj\Debug\netcoreapp2.2\Scrabble.Tests.pdb
